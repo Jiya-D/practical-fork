@@ -1,2 +1,6 @@
 conflict karega 
+<<<<<<< HEAD
 change from br1 conflict 
+=======
+ change from br2 conflict
+>>>>>>> br2
